@@ -1,0 +1,34 @@
+Model=XR-620
+Firmware=6.80
+Serial=018838
+HostVersion=(Ruskin version number - 2.20.9.202403192006)
+
+HostTime=25-Apr-2024 15:09:54.980
+LoggerTime=25-Apr-2024 15:09:54.625
+LoggingStartTime=12-Sep-2023 09:53:34.000
+LoggingEndTime=13-Sep-2023 18:00:00.000
+LoggingSamplingPeriod=6Hz
+
+NumberOfChannels=3
+Channel[1].name=Conductivity
+Channel[1].units=mS/cm (mS/cm)
+Channel[2].name=Temperature
+Channel[2].units=°C (Degrees_C)
+Channel[3].name=Pressure
+Channel[3].units=dBar (deciBars)
+CorrectionToConductivity=1.1E-5 3.7E-4 14.9 6.0E-7 
+
+LoggerMode=Stopped, user request
+FormatString=E03%9.4f
+
+***NOTE*** This file has been recorded from a live streaming/sampling instrument and the number of samples within correspond to the streaming/sampling session duration and not the the entire schedule.
+
+            Date & Time         Cond          Temp          Pres         Depth         Salin      SpecCond      DensAnom      SoS (UN) 
+25-Apr-2024 11:31:40.000     0.0014000    24.5765000    10.2189000     0.0856957     0.0117108     1.4114167    -2.7908206  1495.7497864 
+25-Apr-2024 11:31:42.000     0.0016000    24.5764000    10.2185000     0.0852990     0.0117307     1.6130508    -2.7907821  1495.7495316 
+25-Apr-2024 11:31:43.000     0.0007000    24.5764000    10.2189000     0.0856957     0.0116984     0.7057097    -2.7908048  1495.7495017 
+25-Apr-2024 11:31:45.000     0.0009000    24.5762000    10.2179000     0.0847039     0.0116896     0.9073446    -2.7907655  1495.7489337 
+25-Apr-2024 11:31:46.000     0.0005000    24.5762000    10.2180000     0.0848031     0.0117236     0.5040803    -2.7907392  1495.7489740 
+25-Apr-2024 11:31:48.000     0.0001000    24.5763000    10.2180000     0.0848031     0.0118982     0.1008159    -2.7906319  1495.7494431 
+25-Apr-2024 11:31:49.000     0.0017000    24.5764000    10.2178000     0.0846047     0.0117424     1.7138665    -2.7907764  1495.7495333 
+25-Apr-2024 11:31:50.000     0.0001000    24.5761000    10.2175000     0.0843072     0.0118981     0.1008163    -2.7905838  1495.7488934 

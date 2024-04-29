@@ -1,0 +1,32 @@
+Model=XR-620
+Firmware=6.20
+Serial=904997
+HostVersion=(Ruskin version number - 2.20.9.202403192006)
+
+HostTime=29-Apr-2024 14:34:34.180
+LoggerTime=29-Apr-2024 14:34:34.180
+LoggingStartTime=29-Apr-2024 14:34:33.350
+LoggingEndTime=29-Apr-2024 15:34:33.350
+LoggingSamplingPeriod=00:00:01
+
+NumberOfChannels=3
+Channel[1].name=Conductivity
+Channel[1].units=mS/cm (mS/cm)
+Channel[2].name=Temperature
+Channel[2].units=°C (Degrees_C)
+Channel[3].name=Pressure
+Channel[3].units=dBar (deciBars)
+
+LoggerMode=Stopped
+FormatString=E03%9.4f
+
+***NOTE*** This file has been recorded from a live streaming/sampling instrument and the number of samples within correspond to the streaming/sampling session duration and not the the entire schedule.
+
+            Date & Time         Cond          Temp          Pres         Depth         Salin      SpecCond      DensAnom      SoS (UN) 
+2024-04-29 14:34:56.662    0.9543556     0.5922693     0.5847858    -9.4698556     0.8889023  1787.8110000     0.6090260  1406.5740267 
+29-Apr-2024 10:34:57.781     0.9997227     0.6987312     0.5067833    -9.5472220     0.9300205  1865.6910941     0.6477469  1407.1558330 
+29-Apr-2024 10:34:58.916     0.9663390     0.7928658     0.4231019    -9.6302210     0.8947804  1797.3593021     0.6234291  1407.5718812 
+29-Apr-2024 10:35:00.015     0.8602949     0.8688488     0.3384627    -9.7141700     0.7902952  1595.8132035     0.5417120  1407.8037414 
+29-Apr-2024 10:35:01.118     0.6889924     0.9286465     0.2506639    -9.8012528     0.6253242  1275.3518425     0.4098431  1407.8732585 
+29-Apr-2024 10:35:02.222     0.4651889     0.9708788     0.1605843    -9.8905978     0.4144315   859.7989125     0.2395559  1407.7933407 
+29-Apr-2024 10:35:03.346     0.2017046     0.9948483     0.0676476    -9.9827767     0.1732726   372.4912163     0.0434114  1407.5813790 
